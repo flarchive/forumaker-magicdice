@@ -2,18 +2,13 @@
 
 > **Read-only archive of released versions of forumaker/magicdice.** Not for installation: use [Packagist](https://packagist.org/packages/forumaker/magicdice) or the [upstream repository](https://github.com/forumaker/magicdice).
 
-**6** versions archived · Latest: [`2.4.0`](https://github.com/flarchive/forumaker-magicdice/tree/archive/v2.4.0) · License: `MIT` · Flarum: `^2.0`
+**0** versions archived · Latest: [`3.1.0`](https://github.com/flarchive/forumaker-magicdice/tree/archive/v3.1.0) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `2.0.0` | 2026-01-01 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicdice/tree/archive/v2.0.0) |
-| `2.1.0` | 2026-05-25 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicdice/tree/archive/v2.1.0) |
-| `2.2.0` | 2026-07-24 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicdice/tree/archive/v2.2.0) |
-| `2.2.2` | 2026-07-24 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicdice/tree/archive/v2.2.2) |
-| `2.3.0` | 2026-09-09 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicdice/tree/archive/v2.3.0) |
-| `2.4.0` | 2026-09-09 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicdice/tree/archive/v2.4.0) |
+| — | — | — | — |
 
 Catalog entry: [packages/forumaker-magicdice.json](https://github.com/flarchive/archive-index/blob/main/packages/forumaker-magicdice.json)
 
